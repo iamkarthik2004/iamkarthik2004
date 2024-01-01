@@ -2,6 +2,7 @@
 - 👀 I’m interested in Coding, Web Developing
 - 🌱 I’m a 1st Year B Tech CSE Student @ SJCET PALAI
 - 📫 How to reach me
+Insta - karthik_kk708
 
 <!---
 iamkarthik2004/iamkarthik2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

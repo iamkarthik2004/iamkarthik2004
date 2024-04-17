@@ -7,6 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">I <span style="color:red">❤</span> Programming</h3>
 
 - 👋 Hi, I’m **_Karthik Krishnan_**
+- <marquee direction=left> Hi, I'm **_Karthik Krishnan_** </marquee>
 - 👀 I’m interested in _**Coding, Web Developing**_
 - 🌱 I’m a 1st Year **_B Tech CSE Student @ SJCET PALAI_**
 - 📫 How to reach me **_karthikkrishnan2027@gmail.com_**

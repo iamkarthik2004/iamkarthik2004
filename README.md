@@ -1,3 +1,5 @@
+Profile Hits:  [![HitCount](https://hits.dwyl.com/{username}/{project}.svg?style=flat-square)](http://hits.dwyl.com/{username}/{project})
+
 <!---
 iamkarthik2004/iamkarthik2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

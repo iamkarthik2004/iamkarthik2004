@@ -6,7 +6,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Karthik</h1>
-<h3 align="center">I <span style="color:red">❤</span> Programming</h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+25+Charted&size=30&pause=1000&color=EBF727&random=false&width=435&lines=Studying+in+SJCET+PALAI.......;CSE+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I+Love+%E2%9D%A4%EF%B8%8F+Programming;Passionate+Web++Development" alt="Typing SVG" /></a>
 

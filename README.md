@@ -47,5 +47,4 @@ You can click the Preview link to take a look at your changes.
 <a href="https://instagram.com/karthik_kk708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="Karthik" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Nature_Lens_Crafters" target="blank"><img align="center" src="https://yt3.googleusercontent.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s176-c-k-c0x00ffffff-no-rj" alt="Karthik" height="30" width="40" /></a>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 

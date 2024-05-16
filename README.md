@@ -19,13 +19,22 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamkarthik2004&show_icons=true&theme=radical)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkarthik2004&langs_count=8)
+<a href="https://github.com/iamkarthik2004/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iamkarthik2004&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/iamkarthik2004/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkarthik2004&langs_count=8" />
+</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

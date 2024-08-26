@@ -5,7 +5,7 @@ iamkarthik2004/iamkarthik2004 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm Karthik</h1>
+<h1 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+KarthiK)](https://git.io/typing-svg) </h1>
 
 <!---Light Code--->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>

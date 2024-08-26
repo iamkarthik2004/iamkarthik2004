@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://twitter.com/karthik_kk708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg" alt="karthik_kk708" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karthik-krishnan-775682251" target="blank"><img align="center" src="linkedln1.png" alt="Karthik-Krishnan" height="40" width="40" /></a>
-<a href="https://instagram.com/karthik_kk708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/instagram.svg" alt="Karthik" height="30" width="40" /></a>
+<a href="https://instagram.com/karthik_kk708" target="blank"><img align="center" src="insta.jpg" alt="Karthik" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Nature_Lens_Crafters" target="blank"><img align="center" src="ytlogo.png" alt="Karthik" height="45" width="45" /></a>
 <a href="https://app.mulearn.org/profile/karthikkrishnan@mulearn" target="blank"><img align="center" src="mulearn_logo.png" alt="Karthik" height="30" width="30" /></a>
 </p>

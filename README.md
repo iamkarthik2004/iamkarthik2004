@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m **_Karthik Krishnan_**
 - 👀 I’m interested in _**Coding, Web Developing**_
-- 🌱 I’m a 1st Year **_B Tech CSE Student @ SJCET PALAI_**
+- 🌱 I’m a 2nd Year **_B Tech CSE Student @ SJCET PALAI_**
 - 📫 How to reach me **_karthikkrishnan2027@gmail.com_**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 

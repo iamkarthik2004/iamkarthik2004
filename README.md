@@ -26,16 +26,22 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 </p>
 
+
+
 <!---Connect With Me Tools--->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/karthik_kk708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg" alt="karthik_kk708" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karthik-krishnan-775682251" target="blank"><img align="center" src="linkedln1.png" alt="Karthik-Krishnan" height="60" width="60" /></a>
-<a href="https://instagram.com/karthik_kk708" target="blank"><img align="center" src="insta.png" alt="Karthik" height="40" width="45" /></a>
+<a href="https://linkedin.com/in/karthik-krishnan-775682251" target="blank"><img align="center" src="linkedin.png" alt=karthik-krishnan-775682251" height="30" width="30" /></a>
+<a href="https://fb.com" target="blank"><img align="center" src="facebook.png" alt="kk" height="30" width="30" /></a>
+  <a href="https://instagram.com/karthik_kk708" target="blank"><img align="center" src="instagram.png" alt="karthik_kk708" height="30" width="30" /></a>
+<a href="https://www.codechef.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kkarthik" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/karthikkrishna30" target="blank"><img align="center" src="HackerRank_logo.svg" alt="karthikkrishnan" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com" target="blank"><img align="center" src="hackerearth-svgrepo-com.svg" alt="@karthikkrishnan2004" height="30" width="40" /></a> 
+<a href="https://www.geeksforgeeks.org/user/karthikkriqwlh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/116px-GeeksforGeeks.svg.png?20200909192408" alt="karthikk" height="30" width="40" /></a>  
+<a href="https://discord.gg/karthik_kk708" target="blank"><img align="center" src="Discord-Logo-Color.svg" alt="kk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Nature_Lens_Crafters" target="blank"><img align="center" src="ytlogo.png" alt="Karthik" height="55" width="65" /></a>
 <a href="https://app.mulearn.org/profile/karthikkrishnan@mulearn" target="blank"><img align="center" src="mulearn_logo.png" alt="Karthik" height="30" width="30" /></a>
-</p>
-
+<a href="https://twitter.com/karthik_kk708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/twitter.svg" alt="karthik_kk708" height="30" width="40" /></a>
 
 
 <!---Language Tools--->

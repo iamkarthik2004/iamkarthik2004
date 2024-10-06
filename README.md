@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karthik-krishnan-775682251" target="blank"><img align="center" src="linkedin.png" alt=karthik-krishnan-775682251" height="30" width="30" /></a>
-<a href="https://fb.com" target="blank"><img align="center" src="facebook.png" alt="kk" height="30" width="30" /></a>
+<a href="https://fb.com/Karthik4002KK" target="blank"><img align="center" src="facebook.png" alt="kk4002" height="30" width="30" /></a>
   <a href="https://instagram.com/karthik_kk708" target="blank"><img align="center" src="instagram.png" alt="karthik_kk708" height="30" width="30" /></a>
 <a href="https://www.codechef.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kkarthik" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/karthikkrishna30" target="blank"><img align="center" src="HackerRank_logo.svg" alt="karthikkrishnan" height="30" width="40" /></a>

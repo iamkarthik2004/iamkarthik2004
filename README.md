@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linkedin.com/in/karthik-krishnan-775682251" target="blank"><img align="center" src="linkedin.png" alt=karthik-krishnan-775682251" height="30" width="30" /></a>
 <a href="https://fb.com/Karthik4002KK" target="blank"><img align="center" src="facebook.png" alt="kk4002" height="30" width="30" /></a>
   <a href="https://instagram.com/karthik_kk708" target="blank"><img align="center" src="instagram.png" alt="karthik_kk708" height="30" width="30" /></a>
-<a href="https://www.codechef.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kkarthik" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/karthik_kk2004" target="blank"><img align="center" src="codechef.png" alt="kkarthik" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/karthikkrishna30" target="blank"><img align="center" src="HackerRank_logo.svg" alt="karthikkrishnan" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com" target="blank"><img align="center" src="hackerearth-svgrepo-com.svg" alt="@karthikkrishnan2004" height="30" width="40" /></a> 
 <a href="https://www.geeksforgeeks.org/user/karthikkriqwlh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/116px-GeeksforGeeks.svg.png?20200909192408" alt="karthikk" height="30" width="40" /></a>  

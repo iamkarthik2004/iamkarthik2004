@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://instagram.com/karthik_kk708" target="blank"><img align="center" src="instagram.png" alt="karthik_kk708" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/karthik_kk2004" target="blank"><img align="center" src="codechef.png" alt="kkarthik" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/karthikkrishna30" target="blank"><img align="center" src="HackerRank_logo.svg" alt="karthikkrishnan" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com" target="blank"><img align="center" src="hackerearth-svgrepo-com.svg" alt="@karthikkrishnan2004" height="30" width="40" /></a> 
+<a href="https://www.hackerearth.com" target="blank"><img align="center" src="hackerrank.png" alt="@karthikkrishnan2004" height="30" width="40" /></a> 
 <a href="https://www.geeksforgeeks.org/user/karthikkriqwlh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/116px-GeeksforGeeks.svg.png?20200909192408" alt="karthikk" height="30" width="40" /></a>  
 <a href="https://discord.gg/karthik_kk708" target="blank"><img align="center" src="Discord-Logo-Color.svg" alt="kk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Nature_Lens_Crafters" target="blank"><img align="center" src="ytlogo.png" alt="Karthik" height="55" width="65" /></a>

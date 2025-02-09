@@ -1,6 +1,4 @@
-Profile Hits:     [![HitCount](https://hits.dwyl.com/iamkarthik2004/iamkarthik2004.svg?style=flat-square)](http://hits.dwyl.com/iamkarthik2004/iamkarthik2004)
-
-
+![Profile Hits](https://komarev.com/ghpvc/?username=iamkarthik2004)
 
 <!---
 iamkarthik2004/iamkarthik2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

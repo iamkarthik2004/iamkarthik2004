@@ -5,6 +5,7 @@ iamkarthik2004/iamkarthik2004 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&color=DBF711&width=435&lines=Hello!+I'm+Karthik)](https://git.io/typing-svg)
 
 
@@ -55,12 +56,23 @@ You can click the Preview link to take a look at your changes.
 
 
 <!---Github Status--->
+## 📊 GitHub Stats  
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=iamkarthik2004&show_icons=true&theme=radical">
+  <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkarthik2004&theme=radical">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkarthik2004&langs_count=8">
+  
+
+<!---
+OLD ONE
 <a href="https://github.com/iamkarthik2004/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=iamkarthik2004&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/iamkarthik2004/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkarthik2004&langs_count=8" />
 </a>
+--->
+
+
 
 
 <!---

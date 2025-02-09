@@ -44,6 +44,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://stackoverflow.com/users/27279749/karthik-krishnan" target="blank"><img align="center" src="Stack_Overflow-512.webp" alt="karthik" height="30" width="40" /></a>
 
 
+
+
 <!---Language Tools--->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -51,6 +53,7 @@ You can click the Preview link to take a look at your changes.
 <a href="[https://www.java.com](https://www.w3schools.com/html/)" target="_blank" rel="noreferrer"> <img src="Html.png" alt="c" width="40" height="40"/> </a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 
 
 

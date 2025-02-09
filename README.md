@@ -51,6 +51,8 @@ You can click the Preview link to take a look at your changes.
 ### 🔧 Tools & Platforms  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 <!---Github Status--->
 ## 📊 GitHub Stats  
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=iamkarthik2004&show_icons=true&theme=radical">

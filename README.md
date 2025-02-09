@@ -53,9 +53,12 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+
+
+
 <!---Github Status--->
 <a href="https://github.com/iamkarthik2004/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=iamkarthik2004&show_icons=true&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=iamkarthik2004&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/iamkarthik2004/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkarthik2004&langs_count=8" />

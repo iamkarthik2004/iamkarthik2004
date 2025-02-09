@@ -28,9 +28,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <!---Connect With Me Tools--->
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karthik-krishnan-775682251" target="blank"><img align="center" src="linkedin.png" alt=karthik-krishnan-775682251" height="30" width="30" /></a>

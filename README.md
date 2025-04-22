@@ -43,6 +43,7 @@ You can click the Preview link to take a look at your changes.
 [![µLearn](https://img.shields.io/badge/muLearn-6C63F?style=for-the-badge&logo=mulearn&logoColor=white)](https://app.mulearn.org/profile/karthikkrishnan@mulearn)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karthik_kk708)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27279749/karthik-krishnan)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost)](https://devpost.com/karthikkrishnan4002) 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 

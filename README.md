@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ### 📄 My Resume  
-[![Resume](https://img.shields.io/badge/Click%20Here-To%20View%20My%20Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/11F7KLavWdN7pV-kVW34i_NERsM8NlSIi/view)
+[![Resume](https://img.shields.io/badge/Click%20Here-To%20View%20My%20Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1vmQxpCPKqRFb-mbPPaF20dpZwSOoRmeh/view?usp=sharing)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 

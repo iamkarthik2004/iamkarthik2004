@@ -120,3 +120,15 @@ PIE DIAGRAM
 
 <a href="https://buymeacoffee.com/karthikkrishnan24" target="_blank" >
 <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;align: center !important;" ></a>
+
+<div align="center">
+  <a href="https://open.spotify.com/album/0zgnbu4OjPQ0hnou373oX2">
+    <img src="https://img.shields.io/badge/Listening_To-USHER-0d1117?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" alt="Spotify - Usher Album"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30,40,50,60&height=100&section=footer&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&descSize=20&descAlign=62&stroke=000&strokeWidth=1" width="100%">
+</div>
+
+

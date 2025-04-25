@@ -75,7 +75,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;" />
 </a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <div align="center">
   <a href="https://open.spotify.com/playlist/2iq6BXF5WadhBVa8YELEpr">
@@ -83,7 +82,6 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00C9FF,100:92FE9D" width="100%">

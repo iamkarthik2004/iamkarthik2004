@@ -127,6 +127,7 @@ PIE DIAGRAM
   </a>
 </div>
 
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30,40,50,60&height=100&section=footer&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&descSize=20&descAlign=62&stroke=000&strokeWidth=1" width="100%">
 </div>

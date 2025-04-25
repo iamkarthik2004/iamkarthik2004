@@ -65,14 +65,17 @@ You can click the Preview link to take a look at your changes.
   
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkarthik2004&langs_count=8">
 
-<!---Tryhackme Profile--->
-<img src="https://tryhackme-badges.s3.amazonaws.com/karthikkrishnan4.png" alt="Your Image Badge" />
+## 🧠 TryHackMe Progress  
+<img src="https://tryhackme-badges.s3.amazonaws.com/karthikkrishnan4.png" alt="TryHackMe Badge" />
 
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+## ☕ Buy Me a Coffee  
+<a href="https://buymeacoffee.com/karthikkrishnan24" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;" />
+</a>
 
-<a href="https://buymeacoffee.com/karthikkrishnan24" target="_blank" >
-<img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;align: center !important;" ></a>
+---
 
 <div align="center">
   <a href="https://open.spotify.com/playlist/2iq6BXF5WadhBVa8YELEpr">
@@ -80,7 +83,8 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30,40,50,60&height=100&section=footer&animation=fadeIn&fontColor=fff&fontSize=12&fontAlign=50&descSize=20&descAlign=62&stroke=000&strokeWidth=1" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00C9FF,100:92FE9D" width="100%">
 </div>

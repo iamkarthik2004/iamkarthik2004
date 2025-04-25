@@ -16,10 +16,11 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 - 👋 Hi, I’m **_Karthik Krishnan_**
-- 👀 I’m interested in _**Coding, Web Development**_
+- 👀 I’m interested in _**Coding, Web Development, UI Designing**_
 - 🌱 I’m a 2nd Year **_B Tech CSE Student @ SJCET PALAI_**
-- 📫 How to reach me **_karthikkrishnan2027@gmail.com_**
-- My Website **https://sites.google.com/view/karthikk-portfolio**
+- 📫 How to reach me [karthikkrishnan2027@gmail.com](mailto:karthikkrishnan2027@gmail.com)
+- 🌐 **Portfolio**: [karthikk-portfolio](https://sites.google.com/view/karthikk-portfolio)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ### 📄 My Resume  

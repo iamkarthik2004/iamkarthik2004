@@ -91,5 +91,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00C9FF,100:92FE9D" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2193b0,100:6dd5ed" width="100%">
 </div>
+
+
+<!--  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00C9FF,100:92FE9D" width="100%">
+->

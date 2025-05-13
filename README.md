@@ -69,13 +69,10 @@ You can click the Preview link to take a look at your changes.
 <!---Github Status--->
 ## 📊 GitHub Stats  
 <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=iamkarthik2004&show_icons=true&theme=highcontrast"> <img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkarthik2004&theme=highcontrast">
-
-<!---old
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=iamkarthik2004&show_icons=true&theme=radical"> <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkarthik2004&theme=radical">
-  --->
   
 <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkarthik2004&langs_count=8&theme=radical">
 
+<!--Try Hack Me Progress-->
 ## 🧠 TryHackMe Progress  
 <img src="https://tryhackme-badges.s3.amazonaws.com/karthikkrishnan4.png" alt="TryHackMe Badge" />
 

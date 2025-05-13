@@ -1,5 +1,6 @@
 ![Profile Hits](https://komarev.com/ghpvc/?username=iamkarthik2004)
 
+
 <!---
 iamkarthik2004/iamkarthik2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -10,6 +11,13 @@ You can click the Preview link to take a look at your changes.
 <!---Text Animation--->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+25+Charted&size=30&pause=1000&color=EBF727&random=false&width=435&lines=Studying+in+SJCET+PALAI.......;CSE+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I+Love+%E2%9D%A4%EF%B8%8F+Programming;Passionate+in+Web++Development;UI+Designer+%F0%9F%A4%96" alt="Typing SVG" /></a>
 
+<!--FOLLOWERS & PORTFOLIO SPACE-->
+<a href="https://github.com/iamkarthik2004" target="_blank">
+  <img src="https://img.shields.io/github/followers/iamkarthik2004?style=for-the-badge&logo=github&color=0d1117&labelColor=FF0000&logoColor=ADD8E6" alt="GitHub Followers"/>
+</a>
+<a href="https://sites.google.com/view/karthikk-portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-ADD8E6?style=for-the-badge&logo=vercel&logoColor=ADD8E6&labelColor=FF0000&color=0d1117" alt="Portfolio"/>
+</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 

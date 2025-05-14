@@ -88,6 +88,11 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Listening_To-Mind_Relief_Music-0d1117?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" alt="Spotify Playlist"/>
   </a>
 </div>
+<div align="center">
+  <a href="https://music.youtube.com/playlist?list=PLeg2DLkpseDzts1pzpZq7FiN2n-BHKnFl&si=dvKwH8v4JPW8IJXv">
+    <img src="https://img.shields.io/badge/Listening_To-YouTube_Music-ff0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube Music Playlist"/>
+  </a>
+</div>
 
 
 <div align="center">

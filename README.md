@@ -71,9 +71,9 @@ You can click the Preview link to take a look at your changes.
   
 <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkarthik2004&langs_count=8&theme=radical">
 
+<!--GitHub Trophies-->
 ## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamkarthik2004&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iamkarthik2004&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--Try Hack Me Progress-->

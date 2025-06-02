@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m **_Karthik Krishnan_**
 - 👀 I’m interested in _**Coding, Web Development, UI Designing**_
-- 🌱 I’m a 2nd Year **_B Tech CSE Student @ SJCET PALAI_**
+- 🌱 I’m a 3rd Year **_B Tech CSE Student @ SJCET PALAI_**
 - 📫 How to reach me [karthikkrishnan2027@gmail.com](mailto:karthikkrishnan2027@gmail.com)
 - 🌐 **Portfolio**: [karthikk-portfolio](https://sites.google.com/view/karthikk-portfolio)
 

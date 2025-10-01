@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/iamkarthik2004" target="_blank">
   <img src="https://img.shields.io/github/followers/iamkarthik2004?style=for-the-badge&logo=github&color=0d1117&labelColor=FF0000&logoColor=ADD8E6" alt="GitHub Followers"/>
 </a>
-<a href="https://sites.google.com/view/karthikk-portfolio" target="_blank">
+<a href="https://karthikkk-portfolio.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-ADD8E6?style=for-the-badge&logo=vercel&logoColor=ADD8E6&labelColor=FF0000&color=0d1117" alt="Portfolio"/>
 </a>
 

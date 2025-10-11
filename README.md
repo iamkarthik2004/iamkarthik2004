@@ -40,6 +40,7 @@ You can click the Preview link to take a look at your changes.
 ### Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-krishnan-775682251)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karthik_kk708)
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-006400?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/karthik_kk708)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/karthik_kk2004)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/karthikkrishna30)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@karthik_kk2004)

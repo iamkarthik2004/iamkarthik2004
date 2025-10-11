@@ -45,6 +45,7 @@ You can click the Preview link to take a look at your changes.
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/karthikkrishna30)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@karthik_kk2004)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/karthikkriqwlh)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-FECC00?style=for-the-badge&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/karthik_kk708)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/karthik_kk708)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Nature_Lens_Crafters)
 [![µLearn](https://img.shields.io/badge/muLearn-6C63F?style=for-the-badge&logo=mulearn&logoColor=white)](https://app.mulearn.org/profile/karthikkrishnan@mulearn)

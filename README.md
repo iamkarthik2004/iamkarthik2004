@@ -5,7 +5,6 @@
 iamkarthik2004/iamkarthik2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![An image of @iamkarthik2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamkarthik2004)](https://holopin.io/@iamkarthik2004)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&color=DBF711&width=435&lines=Hello!+I'm+Karthik)](https://git.io/typing-svg)
 
@@ -86,6 +85,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://tryhackme-badges.s3.amazonaws.com/karthikkrishnan4.png" alt="TryHackMe Badge" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+[![An image of @iamkarthik2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamkarthik2004)](https://holopin.io/@iamkarthik2004)
 
 ## ☕ Buy Me a Coffee  
 <a href="https://buymeacoffee.com/karthikkrishnan24" target="_blank">

@@ -79,6 +79,10 @@ You can click the Preview link to take a look at your changes.
   <img height="170" src="https://github-contributor-stats.vercel.app/api?username=iamkarthik2004&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamkarthik2004/iamkarthik2004/output/snake-dark.svg" alt="snake animation"/>
+</p>
+
 
 
 <!--GitHub Trophies-->
@@ -90,10 +94,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamkarthik2004&theme=react-dark" />
 </p>
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iamkarthik2004/iamkarthik2004/output/snake-dark.svg" alt="snake animation"/>
-</p>
 
 
 

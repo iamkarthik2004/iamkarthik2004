@@ -79,9 +79,6 @@ You can click the Preview link to take a look at your changes.
   <img height="170" src="https://github-contributor-stats.vercel.app/api?username=iamkarthik2004&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iamkarthik2004/iamkarthik2004/output/snake-dark.svg" alt="snake animation"/>
-</p>
 
 
 
@@ -103,7 +100,6 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-[![An image of @iamkarthik2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamkarthik2004)](https://holopin.io/@iamkarthik2004)
 
 ## ☕ Buy Me a Coffee  
 <a href="https://buymeacoffee.com/karthikkrishnan24" target="_blank">
@@ -121,6 +117,11 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Listening_To-YouTube_Music-ff0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube Music Playlist"/>
   </a>
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamkarthik2004/iamkarthik2004/output/snake-dark.svg" alt="snake animation"/>
+</p>
+
 
 
 <div align="center">

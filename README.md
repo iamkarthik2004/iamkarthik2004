@@ -19,8 +19,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Portfolio-ADD8E6?style=for-the-badge&logo=vercel&logoColor=ADD8E6&labelColor=FF0000&color=0d1117" alt="Portfolio"/>
 </a>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 - 👋 Hi, I’m **_Karthik Krishnan_**
 - 👀 I’m interested in _**Coding, Web Development, UI/UX Designing**_

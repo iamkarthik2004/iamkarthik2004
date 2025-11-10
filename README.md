@@ -92,7 +92,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iamkarthik2004/iamkarthik2004/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/iamkarthik2004/iamkarthik2004/output/snake-dark.svg" alt="snake animation"/>
 </p>
 
 

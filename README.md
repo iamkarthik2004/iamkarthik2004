@@ -69,8 +69,16 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <!---Github Status--->
-## 📊 GitHub Stats  
-<img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=iamkarthik2004&show_icons=true&theme=highcontrast"> <img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkarthik2004&theme=highcontrast">
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=iamkarthik2004&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkarthik2004&theme=highcontrast" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=iamkarthik2004&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+</p>
   
 
 

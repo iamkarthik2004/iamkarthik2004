@@ -106,6 +106,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;" />
 </a>
 
+<!--Snake--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamkarthik2004/iamkarthik2004/output/snake-dark.svg" alt="snake animation"/>
+</p>
 
 <div align="center">
   <a href="https://open.spotify.com/playlist/2iq6BXF5WadhBVa8YELEpr">
@@ -117,10 +121,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Listening_To-YouTube_Music-ff0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" alt="YouTube Music Playlist"/>
   </a>
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iamkarthik2004/iamkarthik2004/output/snake-dark.svg" alt="snake animation"/>
-</p>
 
 
 

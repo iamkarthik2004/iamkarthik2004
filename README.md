@@ -6,7 +6,7 @@ iamkarthik2004/iamkarthik2004 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&color=DBF711&width=435&lines=Hello!+I'm+Karthik)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=26&pause=1000&color=DBF711&width=435&lines=Hello!+I'm+Karthik+Krishnan)](https://git.io/typing-svg)
 
 <!---Text Animation--->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+25+Charted&size=30&pause=1000&color=EBF727&random=false&width=435&lines=Studying+in+SJCET+PALAI.......;CSE+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I+Love+%E2%9D%A4%EF%B8%8F+Programming;Passionate+in+Web++Development;UI+Designer+%F0%9F%A4%96" alt="Typing SVG" /></a>

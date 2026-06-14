@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 - 👋 Hi, I’m **Karthik Krishnan**
-- 🎓 3rd Year **B.Tech Computer Science Engineering** student at **SJCET Palai**
+- 🎓 4th Year **B.Tech Computer Science Engineering** student at **SJCET Palai**
 - 💻 Interested in **Coding, Web Development, and UI/UX Design**
 - 📫 Reach me at **[karthikkrishnan2027@gmail.com](mailto:karthikkrishnan2027@gmail.com)**
 - 🌐 Portfolio: **[karthikk-portfolio](https://sites.google.com/view/karthikk-portfolio)**

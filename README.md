@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m **Karthik Krishnan**
 - 🎓 4th Year **B.Tech Computer Science Engineering** student at **SJCET Palai**
-- 💻 Interested in **Coding, Web Development, and UI/UX Design**
+- 🚀 Aspiring Software Developer passionate about **Python, AI/ML, Web Development, UI/UX Design, and Problem Solving**
 - 📫 Reach me at **[karthikkrishnan2027@gmail.com](mailto:karthikkrishnan2027@gmail.com)**
 - 🌐 Portfolio: **[karthikk-portfolio](https://sites.google.com/view/karthikk-portfolio)**
 

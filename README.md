@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Portfolio-ADD8E6?style=for-the-badge&logo=vercel&logoColor=ADD8E6&labelColor=FF0000&color=0d1117" alt="Portfolio"/>
 </a>
 
-<a href="https://www.behance.net/YOUR_USERNAME" target="_blank">
+<a href="https://www.behance.net/karthikkrishnan10" target="_blank">
   <img src="https://img.shields.io/badge/Behance-ADD8E6?style=for-the-badge&logo=behance&logoColor=ADD8E6&labelColor=FF0000&color=0d1117" alt="Behance"/>
 </a>
 

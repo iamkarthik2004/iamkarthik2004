@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="https://www.behance.net/karthikkrishnan10" target="_blank">
-  <img src="https://img.shields.io/badge/Behance-ADD8E6?style=for-the-badge&logo=behance&logoColor=ADD8E6&labelColor=FF0000&color=0d1117" alt="Behance"/>
+  <img src="https://img.shields.io/badge/Behance-ADD8E6?style=for-the-badge&logo=behance&labelColor=FF0000&color=0d1117" alt="Behance"/>
 </a>
 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />

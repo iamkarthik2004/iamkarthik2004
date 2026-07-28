@@ -96,20 +96,17 @@ You can click the Preview link to take a look at your changes.
 <!------ GitHub Status ------>
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamkarthik2004&theme=github_dark" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=iamkarthik2004&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=iamkarthik2004&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamkarthik2004&theme=github_dark" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamkarthik2004&theme=github_dark" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamkarthik2004&theme=github_dark" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamkarthik2004&theme=github-dark&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamkarthik2004&theme=github_dark&utcOffset=5.5" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=iamkarthik2004&theme=github-dark-blue&hide_border=false&border=203A7C&ring=FF005C&fire=FF005C&currStreakLabel=3D82FF" />
-</p>
 ---
 
 ## 📈 Contribution Graph

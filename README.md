@@ -96,8 +96,6 @@ You can click the Preview link to take a look at your changes.
 <!------ GitHub Status ------>
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <p align="center">
   <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=iamkarthik2004&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
   <img width="48%" src="https://streak-stats.demolab.com?user=iamkarthik2004&theme=github-dark-blue&hide_border=true"/>

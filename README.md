@@ -101,16 +101,10 @@ You can click the Preview link to take a look at your changes.
   <img width="48%" src="https://streak-stats.demolab.com?user=iamkarthik2004&theme=github-dark-blue&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamkarthik2004&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamkarthik2004&bg_color=0D1117&color=F8F8F2&line=FF005C&point=3D82FF&area=true&hide_border=false&border_color=203A7C" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamkarthik2004&theme=github-dark&hide_border=true"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />

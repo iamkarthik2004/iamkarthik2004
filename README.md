@@ -93,27 +93,36 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<!---Github Status--->
-## 📊 GitHub Stats
+<!------ GitHub Status ------>
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=iamkarthik2004&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkarthik2004&theme=highcontrast" alt="GitHub Streak" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=iamkarthik2004&show_icons=true&bg_color=0D1117&title_color=FF005C&text_color=F8F8F2&icon_color=3D82FF&border_color=203A7C&hide_border=false&ring_color=FF005C&rank_icon=github" />
+
+  <img height="170"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=iamkarthik2004&background=0D1117&stroke=203A7C&ring=FF005C&fire=FF005C&currStreakLabel=3D82FF&sideLabels=F8F8F2&currStreakNum=FFFFFF&dates=9CA3AF&sideNums=FFFFFF&border=203A7C" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-contributor-stats.vercel.app/api?username=iamkarthik2004&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+  <img height="180"
+       src="https://github-contributor-stats.vercel.app/api?username=iamkarthik2004&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
+---
 
-
-
-<!--GitHub Trophies-->
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamkarthik2004&theme=darkhub&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!---Github Graph--->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamkarthik2004&theme=react-dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamkarthik2004&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamkarthik2004&bg_color=0D1117&color=F8F8F2&line=FF005C&point=3D82FF&area=true&hide_border=false&border_color=203A7C" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
